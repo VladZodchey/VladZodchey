@@ -1,5 +1,0 @@
-- Privet from Russia!, I’m @VladZodchey
-- I’m interested in Python.
-- I’m currently learning Python.
-- I’m looking to collaborate with backend/frontend small game programmers.
-- You can reach me on discord VladZodchey#0079.
