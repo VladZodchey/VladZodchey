@@ -1,4 +1,0 @@
-- Zodche(i)y (Зодчий - Rus.) - Builder/Architect;
-- Python;
-- Russian;
-- Interested in collab with backend/frontend python developers.
