@@ -1,4 +1,2 @@
-An electronics engineer and an IT amateur. 
-Primarily active on Moscow's Github Counterpart - [moshub](https://hub.mos.ru/vladzodchey)
-
-I am open to contributions or collabs.
+There is zero (0) interesting information I can give that wasn't already harvested by data brokers.
+My contact info is @vladzodchey in telegram, discord or twitter.
