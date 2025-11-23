@@ -21,7 +21,8 @@ why am I like this?..
 - GitOps (Github Workflows/Gitea Actions)
 - Cybersecurity
 ### What I'm wishing to learn some day:
-- Rust || C || C++
+- Rust || C
+- Haskell
 - OpenGL || Vulkan low-level graphics development
 - Assembly (x86, maybe some RISC)
 - Kubernetes
@@ -30,6 +31,7 @@ why am I like this?..
 - Godot gamedev
 ### What I'm willing to learn if required:
 - Web dev (React || Vue)
+- C++
 - AI || Data Science
 - Swift
 - Cisco networking
